@@ -59,5 +59,9 @@ I am Fitsum Abre a 🚀 Full Stack Developer and 💾  Database Administrator wi
 - [AWS for Data Science and Analytics Overview](https://www.youtube.com/watch?v=xURpNoUBkjs)  
 - [Cloud for Data Science 2021 – Everything You Need to Know!](https://www.youtube.com/watch?v=n-XPCp1vDOI)
 
+### 🔌 Electronics & Raspberry Pi Programming
+- [Raspberry Pi Projects for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=8pNBDL93E-8)  
+- [Freenove Raspberry Pi Starter Kit Tutorial Series](https://www.youtube.com/playlist?list=PLR7ZTX6_QxQ6mR-lU4-cx7HivOK-qXv0X)  
+- [Raspberry Pi Python Programming Tutorial](https://www.youtube.com/watch?v=K5pZdcyi6Gk)
 
 
