@@ -8,9 +8,9 @@ I am Fitsum Abre a 🚀 Full Stack Developer and 💾  Database Administrator wi
 
 📚 Eager to learn and adapt to new technologies
 
-*Strong problem-solving and critical thinking skills
+🧠🛠️Strong problem-solving and critical thinking skills
 
-*Collaborative team player with a growth-oriented mindset
+🧑‍💻👨‍💻Collaborative team player with a growth-oriented mindset
 
 <p align="left">
   <!-- Frontend -->
@@ -33,6 +33,14 @@ I am Fitsum Abre a 🚀 Full Stack Developer and 💾  Database Administrator wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+ <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/S/squarespace-logo-AA3EEDA28F-seeklogo.com.png" alt="Squarespace" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SSMS" width="40" height="40"/>
+</p>
+
+
 </p>
 
 
