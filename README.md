@@ -46,10 +46,6 @@ I am Fitsum Abre a 🚀 Full Stack Developer and 💾  Database Administrator wi
 
 ## 📚 Learning Resources
 
-### ☁️ AWS & Cloud Computing
-- [AWS Certified Cloud Practitioner Course (freeCodeCamp)](https://www.youtube.com/watch?v=NhDYbskXRgc)  
-- [AWS Cloud Engineer Full Course for Beginners](https://www.youtube.com/watch?v=j_StCjwpfmk)
-
 ### 🎓 Harvard CS50
 - [Harvard CS50 Full Computer Science Course](https://www.youtube.com/watch?v=8mAITcNt710)  
 - [CS50x 2025 Introduction](https://www.youtube.com/watch?v=h6lqxDwUmJQ)
